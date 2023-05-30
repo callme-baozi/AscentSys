@@ -5,3 +5,4 @@
 “药品”的数据是本地数据库的；具体分类的数据来自product纯文本格式的文件；<br>
 先运行ProductDataServer，再运行LoginFrame <br>
 切换master分支查看最终版本
+## 最新分支 AcentSys2.0
